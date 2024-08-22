@@ -1,0 +1,106 @@
+body{
+    justify-content: center;
+
+}
+.table{
+    /* border: 1px solid black; */
+    height: 50px;
+    display: flex;
+}
+.table2{
+    border: 1px solid black;
+    height: 50px;
+    display: flex;
+}
+.table .box{
+    border: 1px solid black;
+    width: 20%;
+    text-align: center;
+    padding: 15px;
+}
+.table2 .box{
+    border: 1px solid black;
+    border-top: 1px solid white;
+    width: 20%;
+    text-align: center;
+    padding: 15px;
+}
+.boxes{
+    display: flex;
+}
+.time{
+    width: 16.7%;
+    text-align: center;
+}
+.time .timer{
+    height: 30px;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+#fun{
+    margin-top: 103px;
+    height: 185px;
+    background-color: rgb(0, 206, 0);
+}
+#dsa{
+    margin-top: 103px;
+    height: 82px;
+    background-color: rgb(246, 0, 0);
+}
+#es, #es2, #es3{
+    margin-top: 0px;
+    height: 82px;
+    background-color: rgb(125, 4, 255);
+}
+#cp{
+    margin-top: opx;
+    height: 288px;
+    background-color: rgb(0, 204, 255);
+}
+#sts{
+    background-color: yellow;
+    height: 132px;
+}
+#cal{
+    margin-top: 465px;
+    height: 288px;
+    background-color: rgb(230, 4, 255);
+}
+#ca{
+    height: 240px;
+    background-color: rgb(4, 255, 92);
+}
+#pe{
+    height: 187px;
+    background-color: rgb(4, 255, 92)
+}
+#dsa2{
+    margin-top: 203px;
+    height: 82px;
+    background-color: rgb(246, 0, 0);
+}
+#fnl{
+    margin-top: 0px;
+    height: 288px;
+    background-color: rgb(233, 70, 0);
+}
+#ws{
+    margin-top: 153px;
+    height: 187px;
+    background-color: gray;
+}
+#wsl{
+    margin-top: 104px;
+    height: 288px;
+    background-color: rgb(175, 175, 175);
+}
+#dsal{
+    height: 287px;
+    background-color: brown;
+}
+#cp3{
+    height: 185px;
+    background-color: rgb(0, 204, 255);
+
+}
